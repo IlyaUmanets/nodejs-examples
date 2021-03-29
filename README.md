@@ -9,7 +9,7 @@ Currently, there are only 2 apps there
 
 Hopefully, I will learn smth new.
 
-Create an issue if you have any suggestions. It will be very helpful for me. Don't be hesitate
+[Create an issue](https://github.com/IlyaUmanets/nodejs-examples/issues/new) if you have any suggestions. It will be very helpful for me. Don't be hesitate
 
 Things I tried
 
